@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
    
-    "name": "Fix bug when adding card",
+    "name": "Fix bug when adding card in Coto Digital",
     "version": "0.1.0",
-    "description": "Extension to fix bug when adding new card in Coto digital",
+    "description": "Extension to fix bug when adding new card in Coto Digital",
     "permissions": ["activeTab", "declarativeContent"],
     "background": {
         "scripts": ["content.js"],
@@ -15,4 +15,3 @@
     "icons": {
       "128": "icon.png"
     }
-  }
