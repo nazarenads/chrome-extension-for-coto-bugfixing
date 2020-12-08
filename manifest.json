@@ -4,7 +4,7 @@
     "name": "Fix bug when adding card",
     "version": "0.1.0",
     "description": "Extension to fix bug when adding new card in Coto digital",
-    "permissions": ["activeTab", "declarativeContent", "storage"],
+    "permissions": ["activeTab", "declarativeContent"],
     "background": {
         "scripts": ["content.js"],
         "persistent": false
